@@ -1,3 +1,3 @@
 from board import start
 
-start(1, 100)
+start(1, 100, 1)
